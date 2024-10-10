@@ -1,0 +1,31 @@
+body {
+
+        background-color: black;
+        padding: 20px;
+        margin: 0;
+
+    }
+
+.sk1{
+        color: yellow;
+        font-size: 21;
+    }
+
+.sk2 { color: green;
+        font-size: 15;
+
+    }
+
+.sk3 { color: red;
+       font-size: 20px;
+
+    }      
+
+.bio p {
+    font-size: 1.2em;
+    color: beige;
+    margin-bottom: 10px;
+
+    }
+
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
